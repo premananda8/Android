@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itm_monthview"
+         android:title="@string/cal_monthview"/>
+    <item android:id="@+id/itm_yearview"
+        android:title="@string/cal_yearview"/>
+    <item android:id="@+id/itm_todayview"
+        android:title="@string/cal_todayView"/>
+    <item android:id="@+id/itm_addevent"
+        android:title="@string/addevent"/>
+</menu>
